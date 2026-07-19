@@ -27,7 +27,7 @@ The proxy translates OpenAI API requests into ApiFreeLLM requests and converts t
 Clone the repository.
 
 ```bash
-git clone https://github.com/<your-username>/apifreelllm-proxy.git
+git clone https://github.com/NianderBrox/apifreelllm-proxy.git
 cd apifreelllm-proxy
 ```
 
